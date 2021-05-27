@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_blst_insert_link.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: seruiz <seruiz@student.42lyon.fr>          +#+  +:+       +#+        */
+/*   By: fgalaup <fgalaup@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/20 12:22:07 by fgalaup           #+#    #+#             */
-/*   Updated: 2021/05/11 13:41:27 by seruiz           ###   ########lyon.fr   */
+/*   Updated: 2021/05/11 14:46:27 by fgalaup          ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
